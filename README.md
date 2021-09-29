@@ -1,2 +1,2 @@
-# cryptotrending.com
+
 cryptotrending.com
